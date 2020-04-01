@@ -1,4 +1,15 @@
-- name: Conference on Cloud Computing
+name: International Conference on Machine learning and Cloud Computing (MLCL 2020)
+  abbrv: MLCL 2020
+  url: https://csita2020.org/mlcl/index.html
+  edition: 1
+  deadline: "2020-05-28"
+  date_from: "2020-06-20"
+  date_to: "2020-06-21"
+  location: "Dubai, UAE"
+  acceptance: []
+  page_limit: 20
+  
+  - name: Conference on Cloud Computing
   abbrv: CLOUD
   url: http://conferences.computer.org/cloud/2019/
   edition: 13
